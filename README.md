@@ -18,4 +18,5 @@ Une application web simple permettant d'afficher, créer, modifier et supprimer 
 - [Tailwind CSS via CDN](https://tailwindcss.com/)
 
 Exemple:
+
 <img width="1228" alt="Capture d’écran 2025-04-13 à 11 53 48" src="https://github.com/user-attachments/assets/5503dae1-3405-42ed-a32c-44189978338a" />
